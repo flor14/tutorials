@@ -1,4 +1,4 @@
-# Tutorials
+## Tutorials
 Free tutorials rstats-python
 
 * #### [Generalized Additive Models in R](https://noamross.github.io/gams-in-r-course/)
@@ -6,12 +6,13 @@ Free tutorials rstats-python
 
 * #### [Supervised Machine Learning Case Studies in R](https://supervised-ml-course.netlify.com/) 
 by @juliasilge
- [Blogpost](https://juliasilge.com/blog/supervised-ml-course/) 
+
+[Blogpost](https://juliasilge.com/blog/supervised-ml-course/) 
 
 * #### [R-Bootcamp](https://r-bootcamp.netlify.com)
 by @tladeras
 
-# Other links
+### Links
 
 * #### [Community-sourced data science repo](https://github.com/Chris-Engelhardt/data_sci_guide) 
 by @EngelhardtCR
