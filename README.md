@@ -18,10 +18,12 @@ by @tladeras
 - [R](https://github.com/ines/course-starter-r)
 - [Python](https://github.com/ines/course-starter-python)
 
-## Community-sourced data science repo
+### Community-sourced data science repo
 
 * #### [Multiple resources!](https://github.com/Chris-Engelhardt/data_sci_guide) 
 by @EngelhardtCR
 
 
+
+-----------------------------------
 _Contribute: Please feel free to submit a pull request!_
