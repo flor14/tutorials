@@ -5,8 +5,8 @@ Free tutorials rstats-python
  by @noamross
 
 * #### [Supervised Machine Learning Case Studies in R](https://supervised-ml-course.netlify.com/) 
+by @juliasilge
  [Blogpost](https://juliasilge.com/blog/supervised-ml-course/) 
- by @juliasilge
 
 * #### [R-Bootcamp](https://r-bootcamp.netlify.com)
 by @tladeras
