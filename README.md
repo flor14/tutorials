@@ -10,9 +10,14 @@ by @juliasilge
 * #### [R-Bootcamp](https://r-bootcamp.netlify.com)
 by @tladeras
 
-### Links
+### Other Links
 
 * #### [Community-sourced data science repo](https://github.com/Chris-Engelhardt/data_sci_guide) 
 by @EngelhardtCR
+
+* #### Ines Montani Template
+
+- [R](https://github.com/ines/course-starter-r)
+- [Python](https://github.com/ines/course-starter-python)
 
 
