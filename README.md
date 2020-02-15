@@ -11,7 +11,7 @@ by [Ines Montani](https://twitter.com/_inesmontani)
 by [Julia Silge](https://twitter.com/juliasilge)
 
 * #### [R-Bootcamp](https://r-bootcamp.netlify.com)
-by [Ted Laderas](https://twitter.com/tladeras)
+by [Ted Laderas](https://twitter.com/tladeras) and [Jessica Minnier](https://twitter.com/datapointier)
 
 ### [Ines Montani](https://github.com/ines/) Template
 
