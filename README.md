@@ -23,5 +23,9 @@ by [Ted Laderas](https://twitter.com/tladeras) and [Jessica Minnier](https://twi
 * #### [Multiple resources!](https://github.com/Chris-Engelhardt/data_sci_guide) 
 by [Chris Engelhardt](https://twitter.com/EngelhardtCR)
 
+### Start your own tutorial
+
+* [Decampr package](https://github.com/laderast/decampr)
+
 -----------------------------------
 _Contribute: Please feel free to submit a pull request!_
