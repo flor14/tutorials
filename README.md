@@ -25,7 +25,8 @@ by [Chris Engelhardt](https://twitter.com/EngelhardtCR)
 
 ### Start your own tutorial
 
-* [Decampr package](https://github.com/laderast/decampr)
+* ####[Decampr package](https://github.com/laderast/decampr)
+by [Ted Laderas](https://twitter.com/tladeras) and [Jessica Minnier](https://twitter.com/datapointier)
 
 -----------------------------------
 _Contribute: Please feel free to submit a pull request!_
