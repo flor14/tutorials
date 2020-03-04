@@ -13,7 +13,7 @@ by [Julia Silge](https://twitter.com/juliasilge)
 * #### [R-Bootcamp](https://r-bootcamp.netlify.com)
 by [Ted Laderas](https://twitter.com/tladeras) and [Jessica Minnier](https://twitter.com/datapointier)
 
-### [Ines Montani](https://github.com/ines/) Template
+### [Ines Montani](https://github.com/ines/) Framework
 
 - [R](https://github.com/ines/course-starter-r)
 - [Python](https://github.com/ines/course-starter-python)
