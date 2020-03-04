@@ -28,5 +28,8 @@ by [Chris Engelhardt](https://twitter.com/EngelhardtCR)
 * #### [Decampr package](https://github.com/laderast/decampr) 
 by [Ted Laderas](https://twitter.com/tladeras) and [Jessica Minnier](https://twitter.com/datapointier)
 
+* #### [From Zero to ICSP (Ines Course Starter - Python)](https://ines.github.io/course-starter-python/)
+by [Ines Montani](https://twitter.com/_inesmontani)
+
 -----------------------------------
 _Contribute: Please feel free to submit a pull request!_
