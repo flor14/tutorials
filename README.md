@@ -13,6 +13,10 @@ by [Julia Silge](https://twitter.com/juliasilge)
 * #### [R-Bootcamp](https://r-bootcamp.netlify.com)
 by [Ted Laderas](https://twitter.com/tladeras)
 
+* #### [A Practical Introduction to Data Visualization with ggplot2](https://github.com/rstudio-conf-2020/dataviz)
+by [Kieran Healy](@kjhealy)
+
+
 ### [Ines Montani](https://github.com/ines/) Template
 
 - [R](https://github.com/ines/course-starter-r)
@@ -22,12 +26,6 @@ by [Ted Laderas](https://twitter.com/tladeras)
 
 * #### [Multiple resources!](https://github.com/Chris-Engelhardt/data_sci_guide) 
 by [Chris Engelhardt](https://twitter.com/EngelhardtCR)
-
-
-###  Data visualization with R and ggplot2 
-
-* #### [A Practical Introduction to Data Visualization with ggplot2](https://github.com/rstudio-conf-2020/dataviz)
-by [Kieran Healy](@kjhealy)
 
 
 -----------------------------------
