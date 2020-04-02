@@ -14,7 +14,7 @@ by [Julia Silge](https://twitter.com/juliasilge)
 by [Ted Laderas](https://twitter.com/tladeras)
 
 * #### [A Practical Introduction to Data Visualization with ggplot2](https://github.com/rstudio-conf-2020/dataviz)
-by [Kieran Healy](@kjhealy)
+by [Kieran Healy](https://twitter.com/kjhealy)
 
 
 ### [Ines Montani](https://github.com/ines/) Template
