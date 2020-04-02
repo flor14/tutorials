@@ -24,10 +24,10 @@ by [Ted Laderas](https://twitter.com/tladeras)
 by [Chris Engelhardt](https://twitter.com/EngelhardtCR)
 
 
-###  Data visualization with R and ggplot2 workshop
+###  Data visualization with R and ggplot2 
 
 * #### [A Practical Introduction to Data Visualization with ggplot2](https://github.com/rstudio-conf-2020/dataviz)
-by [Kieran Healy]
+by [Kieran Healy](@kjhealy)
 
 
 -----------------------------------
