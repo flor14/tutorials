@@ -23,5 +23,12 @@ by [Ted Laderas](https://twitter.com/tladeras)
 * #### [Multiple resources!](https://github.com/Chris-Engelhardt/data_sci_guide) 
 by [Chris Engelhardt](https://twitter.com/EngelhardtCR)
 
+
+###  Data visualization with R and ggplot2 workshop
+
+* #### [A Practical Introduction to Data Visualization with ggplot2](https://github.com/rstudio-conf-2020/dataviz)
+by [Kieran Healy]
+
+
 -----------------------------------
 _Contribute: Please feel free to submit a pull request!_
