@@ -13,6 +13,9 @@ by [Julia Silge](https://twitter.com/juliasilge)
 * #### [R-Bootcamp](https://r-bootcamp.netlify.com)
 by [Ted Laderas](https://twitter.com/tladeras) and [Jessica Minnier](https://twitter.com/datapointier)
 
+* #### [DCU R Tutorials](https://dcu-r-tutorials.netlify.com/)
+by [Demien Dupré](https://twitter.com/damien_dupre) 
+
 ### [Ines Montani](https://github.com/ines/) Framework
 
 - [R](https://github.com/ines/course-starter-r)
