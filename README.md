@@ -34,5 +34,7 @@ by [Ted Laderas](https://twitter.com/tladeras) and [Jessica Minnier](https://twi
 * #### [From Zero to ICSP (Ines Course Starter - Python)](https://ines.github.io/course-starter-python/)
 by [Hayley Boyce](https://twitter.com/hayleyfboyce)
 
+* #### [Recipe for your first interactive tutorial](https://florencia.netlify.com/2020/03/cooking-your-first-tutorial.en-us/) by [Florencia D'Andrea](https://twitter.com/cantoflor_87). En [español](https://florencia.netlify.com/es-es/2020/03/receta-para-tu-primer-tutorial.es-es/) 
+
 -----------------------------------
 _Contribute: Please feel free to submit a pull request!_
